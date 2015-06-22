@@ -1,0 +1,9 @@
+[Core]
+Name = ping
+Module = ping
+
+[Documentation]
+Description = An Err plugin that utilizes the Openfire Broadcast service to send broadcasts to groups.
+
+[Python]
+Version = 2+
